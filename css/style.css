@@ -1,8 +1,19 @@
 body {
     font-family: "Montserrat", sans-serif;
     background: #fff;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
 }
 
 .text {
-    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    display: inline-block;
 }
