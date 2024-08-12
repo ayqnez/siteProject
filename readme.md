@@ -1,3 +1,3 @@
 If you read this text, it means that you are good
 
-update text :)
+Вася золотая киса и очень добрая кошка и она умеет убивать Арсена
